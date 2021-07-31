@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Eunsung Shin,
 Computer Vision Deep Learning Researcher
-Currently working at [AgileSoDA](https://agilesoda.ai)
+Currently working at [AgileSoDA](http://agilesoda.ai)
 
 ### Available Skills 
 
@@ -11,7 +11,7 @@ Currently working at [AgileSoDA](https://agilesoda.ai)
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
 </div>
 
-
+⚡[My Blog](https://www.notion.so/Silver-city-2e0c2c8aa6f74e94ab94dbd12eae26d8)
 
 <!--
 **watanka/watanka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
