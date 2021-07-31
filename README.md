@@ -1,4 +1,17 @@
 ### Hi there 👋
+I'm Eunsung Shin,
+Computer Vision Deep Learning Researcher
+Currently working at [AgileSoDA](https://agilesoda.ai)
+
+### Available Skills 
+
+#### Languages
+<div>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColr=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
+</div>
+
+
 
 <!--
 **watanka/watanka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
