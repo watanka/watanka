@@ -2,7 +2,8 @@
 - My name is Eunsung Shin
 - Computer Vision Deep Learning Research Scientist.
 - I'm interested in OCR, Autonomous Driving, image generation, and all the fun stuffs you can do with images.
-- Currently working at [AgileSoDA](http://agilesoda.ai)
+- worked at [AgileSoDA](http://agilesoda.ai)
+- Currently Studying for Self-Driving
 
 ### Available Skills 
 
