@@ -2,7 +2,7 @@
 
 - 📝 [Blog](https://silvercity.notion.site/374c14a932644c8a95d52820a869fefe?v=db5fef1d9cb04398a7f9d7fd3679fe91)
 
-- 📫 How to reach me **eunsung.shin@gmail.com**
+- 📫 [Email](eunsung.shin@gmail.com)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
