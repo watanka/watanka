@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/eunsung.shin@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eunsung.shin@gmail.com" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/eunsung.shin@gmail.com](https://www.linkedin.com/in/eun-sung-shin-6b2386223/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eunsung.shin@gmail.com" height="30" width="40" /></a>
 <a href="https://kaggle.com/watanka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="watanka" height="30" width="40" /></a>
 <a href="/silvercity.notion.site" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="silvercity.notion.site" height="30" width="40" /></a>
 </p>
