@@ -1,7 +1,7 @@
 ## Eunsung Shin, Computer Vision Engineer
-- 🏠[Blog](https://silvercity.notion.site/)🏠  
-- 📫 email : eunsung.shin@gmail.com📫  
-- ✒️[LinkedIn](https://www.linkedin.com/in/eun-sung-shin-6b2386223/)✒️  
+- 🏠[Blog](https://silvercity.notion.site/)  
+- 📫 email : eunsung.shin@gmail.com  
+- ✒️[LinkedIn](https://www.linkedin.com/in/eun-sung-shin-6b2386223/)  
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=watanka)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=suj01057)](https://solved.ac/suj01057/)
