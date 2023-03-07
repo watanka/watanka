@@ -10,7 +10,7 @@
 </div>
 
 ⚡[My Blog](https://silvercity.notion.site)
-⚡<img src="[(https://github.com/watanka/github-readme-linkedin)/user?username=Eun Sung Shin" />
+⚡<img src="[https://github-readme-linkedin-pearl.vercel.app/user?username=Eun Sung Shin" />
 
 <!--
 **watanka/watanka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
