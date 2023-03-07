@@ -1,6 +1,6 @@
 <h3 align="center">Computer Vision Engineer</h3>
 
-- 📝 [Blog](https://silvercity.notion.site/374c14a932644c8a95d52820a869fefe?v=db5fef1d9cb04398a7f9d7fd3679fe91)
+- 📝 [Blog](https://silvercity.notion.site/Silver-City-43f9644edf914662a5aaf9c2c153e73b)
 
 - 📫 [eunsung.shin@gmail.com](eunsung.shin@gmail.com)
 
