@@ -1,17 +1,16 @@
-- I'm Eunsung Shin, Computer Vision Engineer from South Korea🇰🇷.
-- I'm interested in OCR, Autonomous Driving, image generation, and all the fun stuffs you can do with images.
-- worked at [AgileSoDA](http://agilesoda.ai)
-- Currently Studying for Self-Driving
+- I'm Eunsung Shin, Computer Vision Engineer from South Korea.
+- I'm interested in Perception for Self-Driving Vehicles.
+
 
 ### Available Skills 
 
 #### Languages
 <div>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColr=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
 </div>
 
 ⚡[My Blog](https://silvercity.notion.site)
+⚡<img src="[(https://github.com/watanka/github-readme-linkedin)/user?username=Eun Sung Shin" />
 
 <!--
 **watanka/watanka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
