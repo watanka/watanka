@@ -1,4 +1,4 @@
-## Eunsung Shin, Computer Vision Engineer
+## Eunsung Shin, ML Software Engineer
 - 🏠[Blog](https://silvercity.notion.site/)   
 - ✒️[LinkedIn](https://www.linkedin.com/in/eun-sung-shin-6b2386223/)  
 - 📫 email : eunsung.shin@gmail.com   
