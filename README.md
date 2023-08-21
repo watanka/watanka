@@ -3,7 +3,6 @@
 - ✒️[LinkedIn](https://www.linkedin.com/in/eun-sung-shin-6b2386223/)  
 - 📫 email : eunsung.shin@gmail.com   
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=watanka)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=suj01057)](https://solved.ac/suj01057/)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/watanka)
 
