@@ -5,7 +5,7 @@
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=watanka)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=suj01057)](https://solved.ac/suj01057/)
-<img src="https://leetcode-badge-showcase.vercel.app/api?username={watanka}" alt="LeetCode Badges"/>
+![Leetcode Stats](https://leetcard.jacoblin.cool/watanka)
 
 
 
