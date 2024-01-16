@@ -1,5 +1,5 @@
 ## Eunsung Shin, ML Software Engineer
-- 🏠[Blog](https://silvercity.notion.site/silvercity/Silver-City-43f9644edf914662a5aaf9c2c153e73b)   
+- 🏠[Blog](https://watanka.github.io/blog/)   
 - ✒️[LinkedIn](https://www.linkedin.com/in/eun-sung-shin-6b2386223/)  
 - 📫 email : eunsung.shin@gmail.com   
 ---
