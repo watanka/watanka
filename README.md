@@ -1,7 +1,9 @@
 ## Eunsung Shin, ML Software Engineer
 - 🏠[Blog](https://watanka.github.io/blog/)   
 - ✒️[LinkedIn](https://www.linkedin.com/in/eun-sung-shin-6b2386223/)  
-- 📫 email : eunsung.shin@gmail.com   
+- 📫 email : eunsung.shin@gmail.com  
+  
+<a href="https://hhpluscertificateofcompletion.oopy.io/"><img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_blue.svg" /></a>
 ---
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=suj01057)](https://solved.ac/suj01057/)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/watanka)
