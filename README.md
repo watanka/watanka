@@ -3,6 +3,13 @@
 - ✒️[LinkedIn](https://www.linkedin.com/in/eun-sung-shin-6b2386223/)  
 - 📫 email : eunsung.shin@gmail.com  
 ---
+#### Certificates
+- Certified Kubernetes Administrator (24.09)
+- SQL Developer (24.08)
+- AWS Cloud Practitoner (24.06)
+- 빅데이터 분석기사 (22.12)
+---
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=suj01057)](https://solved.ac/suj01057/)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/watanka)
 
