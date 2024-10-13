@@ -1,5 +1,5 @@
 ## Eunsung Shin, Software Engineer
-- 🏠[Blog](https://watanka.github.io/blog/)   
+- 🏠[Blog](https://watanka.github.io)   
 - ✒️[LinkedIn](https://www.linkedin.com/in/eun-sung-shin-6b2386223/)  
 - 📫 email : eunsung.shin@gmail.com  
 ---
